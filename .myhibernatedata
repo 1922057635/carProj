@@ -1,0 +1,24 @@
+#MyEclipse Hibernate Properties
+#Mon Oct 16 18:50:06 CST 2017
+sessionFactoryName=cc.momas.car.util.HibernateSessionFactory
+genBasicCompId=false
+profile=
+daoSFId=sessionFactory
+version=3.3
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=src/applicationContext.xml
+useJavaTypes=true
+keyGenerator=native
+libInstallFolder=WebRoot/WEB-INF/lib
+addLibs2Project=true
+genVersionTag=false
+sessionFactoryId=sessionFactory
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/CarProj_Exam/src/applicationContext.xml
+createConfigFile=false
+addLibs2Classpath=true
